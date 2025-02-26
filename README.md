@@ -86,4 +86,4 @@ The projects listed below find markers on a given bitmap. A marker is defined as
 - **Operating Systems Classes:** [Link](https://github.com/MarcinPolewski/SOI-operating-systems.git)
 - **Introduction to AI Classes:** [Link](https://github.com/MarcinPolewski/WSI-Introduction-to-artificial-inteligence.git)
 - **Object-Oriented Programming Classes:** [Link](https://github.com/MarcinPolewski/PROI.git)
-
+- **Algorithms and Datastructures Classes:** [link](https://github.com/MarcinPolewski/AISDI.git)
