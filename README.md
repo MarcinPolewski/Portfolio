@@ -2,6 +2,7 @@
 
 ## Project: Voice Command Recognition
 [Link to repo](https://github.com/MarcinPolewski/Project-voice-command-recognition.git)
+### About
 This was a team project created for the Golem AI society. Our goal was to implement two types of convolutional neural networks and an additional model to perform sound classification. I was responsible for implementing a 2D CNN and managed to achieve 87% accuracy.
 
 ### Technologies
