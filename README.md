@@ -1,5 +1,16 @@
 # My Projects (from Newest to Oldest)
 
+## Project: BMI Calculator
+[Link to repo](https://github.com/MarcinPolewski/Project-BMI-calculator.git)
+### About 
+This project was created to practice basic React.js concepts and other web technologies. It's a simple BMI calculator.
+
+### Technologies
+- HTML
+- CSS
+- JS / React
+
+
 ## Project: Voice Command Recognition
 [Link to repo](https://github.com/MarcinPolewski/Project-voice-command-recognition.git)
 ### About
