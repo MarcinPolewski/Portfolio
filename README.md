@@ -1,5 +1,16 @@
 # My Projects (from Newest to Oldest)
 
+## Project: Distraction Notebook
+[link to repo](https://github.com/MarcinPolewski/Project-Distraction-Notebook)
+[link to hosted website](https://marcinpolewski.github.io/Project-Distraction-Notebook/)
+### About 
+Simple app demonstraing concept of distraction notebook - technique for enchancing focus
+
+### Technologies
+- HTML
+- CSS
+- React.js
+
 ## Project: BMI Calculator
 [Link to repo](https://github.com/MarcinPolewski/Project-BMI-calculator.git)
 ### About 
