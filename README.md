@@ -1,8 +1,9 @@
 # My Projects (from Newest to Oldest)
 
 ## Project: Cafe Website
-[link to repo]()
-[link to hosted website]()
+[link to repo](https://github.com/MarcinPolewski/Project-Cafe-Website)
+
+[link to hosted website](https://marcinpolewski.github.io/Project-Cafe-Website/)
 
 ### About
 three page website, created to practice github actions and react router.
