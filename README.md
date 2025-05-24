@@ -1,5 +1,17 @@
 # My Projects (from Newest to Oldest)
 
+## Project: Cafe Website
+[link to repo]()
+[link to hosted website]()
+
+### About
+three page website, created to practice github actions and react router.
+
+### Technologies
+- HTML
+- CSS
+- JS / React
+- github actions
 ## Project: Distraction Notebook
 [link to repo](https://github.com/MarcinPolewski/Project-Distraction-Notebook)
 
